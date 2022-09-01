@@ -3,10 +3,7 @@ const AboutContainer = () => {
     <section className="about-container">
       <h2>Sobre</h2>
       <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod, dolores!
-        Repellendus eius consequuntur, voluptate deserunt perferendis mollitia
-        debitis est autem aperiam necessitatibus beatae assumenda illo rem
-        architecto quis dolor quae.
+        desenvolvedor Fullstack tendo esperiencia em Front com HTML5, CSS3, SASS, TailwindCSS, Gulp e em Backend com C# (Dotne6), atuei em desenvolvimento de Apps, Web Pages (SPA) e Apis. Tenho facilidade em trabalhar em equipe e bastante vontade de aprender.
       </p>
    
     </section>
