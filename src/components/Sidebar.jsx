@@ -12,8 +12,8 @@ const Sidebar = () => {
       <p className="title">Desenvolvedor Full Stack</p>
       <SocialNetworkContainer />
       <InformationContainer />
-      <a href="../img/curriculo.pdf" className="btn" download>
-        Download currículo
+      <a href="https://www.linkedin.com/in/thiago-gramuglia-b0449b3a/" className="btn" >
+        Baixe Meu Linkedin em PDF
       </a>
     </aside>
   );
