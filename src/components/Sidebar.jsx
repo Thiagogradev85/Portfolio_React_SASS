@@ -13,7 +13,7 @@ const Sidebar = () => {
       <SocialNetworkContainer />
       <InformationContainer />
       <a href="https://www.linkedin.com/in/thiagogradev/?trk=opento_sprofile_topcard/" className="btn" >
-       PDF Baixe Meu Linkedin em 
+       Baixe Meu Linkedin em PDF
       </a>
     </aside>
   );
