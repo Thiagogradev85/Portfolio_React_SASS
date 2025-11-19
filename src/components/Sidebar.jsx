@@ -12,7 +12,9 @@ const Sidebar = () => {
       <p className="title">Desenvolvedor Full Stack</p>
       <SocialNetworkContainer />
       <InformationContainer />
-     
+      <a href="https://www.linkedin.com/in/thiago-gramuglia-b0449b3a/" className="btn" >
+       PDF Baixe Meu Linkedin em 
+      </a>
     </aside>
   );
 };
